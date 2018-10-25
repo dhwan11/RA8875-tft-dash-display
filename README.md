@@ -1,7 +1,7 @@
 # RA8875-tft-dash-display
 Using the RA8875 driver to run Adafruit 5" tft lcd display. My project is to build a dash display for a formula SAE car but the basics from this project will apply to all tft/RA8875 projects.
 
-
+# parts
 The parts I am using for this project are:
 
 1.The RA 8875 driver - https://www.adafruit.com/product/1590
@@ -12,3 +12,36 @@ The parts I am using for this project are:
 
 3. Teensy 3.2 - https://www.pjrc.com/store/teensy32.html
 ![teensy32](https://user-images.githubusercontent.com/43940356/47517437-330bd280-d856-11e8-8871-3d8b3cc98af7.jpg)
+
+
+# Connections:
+
+Vin: +5V
+
+GND: GND
+
+3Vo: Not used 
+
+Lite: Not used
+
+SCK: pin13
+
+MISO: pin12
+
+MOSI: pin11
+
+CS: pin10
+
+RST: pin9
+
+WAIT: Not used
+
+INT: pin3
+
+Y+: Not used
+
+Y-: Not used
+
+X+: Not used
+
+Y-: Not used
