@@ -1,7 +1,7 @@
 # RA8875-tft-dash-display
 Using the RA8875 driver to run Adafruit 5" tft lcd display. My project is to build a dash display for a formula SAE car but the basics from this project will apply to all tft/RA8875 projects.
 
-# parts
+# Parts
 The parts I am using for this project are:
 
 1.The RA 8875 driver - https://www.adafruit.com/product/1590
@@ -56,3 +56,11 @@ some images to help
 See the link below for a video of how to connect a ribbon cable to ra8875. Its not exactly the same but it is key to carefully open the connector clip on the RAA875, inserting the ribbon cable and then closing the clip. 
 
 https://www.youtube.com/watch?v=2wmvtg797t0
+
+# Code
+Check out the following library provide by Adafruit
+https://github.com/adafruit/Adafruit_RA8875/tree/master/examples
+Play close attention to buildtest and textmode. They provide the entire foundation for any possible project. You can manipulate the provided libraries for many purposes. All of my code, which is uploaded, is doing preety much the same. I encourage you use it as a refernce rather than just copying and pasting to develop a strong knowledge of the libraries as well as your own code.
+
+# future updates
+stay tuned as I will continue to update this repository. I plan to upload better code, videos of it after it is installed on the car, pcb schematics, use of other drivers and mcus.  
