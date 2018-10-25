@@ -15,6 +15,7 @@ The parts I am using for this project are:
 
 
 # Connections:
+RA8875 pin: Teensy 3.2 pin
 
 Vin: +5V
 
@@ -45,3 +46,7 @@ Y-: Not used
 X+: Not used
 
 Y-: Not used
+
+See the link below for a video of how to connect a ribbon cable to ra8875. Its not exactly the same but it is key to carefully open the connector clip on the RAA875, inserting the ribbon cable and then closing the clip. 
+
+https://www.youtube.com/watch?v=2wmvtg797t0
