@@ -49,7 +49,9 @@ Y-: Not used
 
 some images to help
 ![img_9832](https://user-images.githubusercontent.com/43940356/47524388-81c26800-d868-11e8-90df-9ccc8db05738.JPG)
-
+![img_9830](https://user-images.githubusercontent.com/43940356/47524461-addde900-d868-11e8-9a69-df726bc4b72f.JPG)
+![img_9829](https://user-images.githubusercontent.com/43940356/47524462-addde900-d868-11e8-8d28-9dcef90a4037.jpg)
+![img_9831](https://user-images.githubusercontent.com/43940356/47524463-addde900-d868-11e8-877c-2a2a1a0a1735.JPG)
 
 See the link below for a video of how to connect a ribbon cable to ra8875. Its not exactly the same but it is key to carefully open the connector clip on the RAA875, inserting the ribbon cable and then closing the clip. 
 
