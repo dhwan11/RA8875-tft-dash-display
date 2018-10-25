@@ -11,3 +11,4 @@ The parts I am using for this project are:
 ![lcd display](https://user-images.githubusercontent.com/43940356/47517324-d4deef80-d855-11e8-8a92-93e77edd48d3.jpg)
 
 3. Teensy 3.2 - https://www.pjrc.com/store/teensy32.html
+![teensy32](https://user-images.githubusercontent.com/43940356/47517437-330bd280-d856-11e8-8871-3d8b3cc98af7.jpg)
